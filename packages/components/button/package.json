@@ -1,0 +1,11 @@
+{
+  "name": "@antimatter-ui/button",
+  "version": "1.0.0",
+  "description": "Button component from Antimatter UI",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
