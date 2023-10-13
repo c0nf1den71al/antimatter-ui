@@ -1,7 +1,7 @@
 {
-  "name": "@antimatter-ui/button",
+  "name": "@antimatter-ui/input",
   "version": "1.0.0",
-  "description": "A button component from Antimatter UI",
+  "description": "An input component from Antimatter UI",
   "main": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
